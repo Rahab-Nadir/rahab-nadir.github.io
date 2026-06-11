@@ -49,9 +49,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Rosa van den Ende
-          subtitle: "I am a researcher interested in climate policy, complex systems and economic theory. I recently obtained my PhD in Applied Mathematics from CES, Université Paris 1 Panthéon-Sorbonne, and in Economics from Universität Bielefeld, under the supervision of Agnieszka Rusinowska and Manuel Förster. 
-           I am  mostly interested in environmental allocation questions and in how to capture the concept of distributive climate justice in mathematics and economics."
+          title: "Hi there! I am Rosa van den Ende, an associated researcher at the Centre d'Économie de la Sorbonne. I recently obtained my PhD with summa cum laude distinction in Applied Mathematics from Université Paris 1 Panthéon-Sorbonne, and in Economics from Universität Bielefeld, under the supervision of Agnieszka Rusinowska and Manuel Förster. 
+           I am  mostly interested in the mathematical modelling of allocation problems in production networks, with applications to climate policy. "
           imageUrl: "picture2.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -70,7 +69,7 @@ params:
             - name: Talks
               url: talks/
             - name: Resume
-              url: cv_rosa_032026.pdf
+              url: cv_rvde_2026.pdf
             #- name: Archive
             #  url: archive/
     socialIcons:
