@@ -1,5 +1,5 @@
-baseURL: "https://rosavandenende.github.io/" 
-title: Rosa van den Ende 
+baseURL: "https://rahab-nadir.github.io/"
+title: Rahab Nadir
 paginate: 20
 theme: PaperMod
 
@@ -25,8 +25,8 @@ menu:
         #   weight: 4
 
 params:
-    description: "I am a PhD Candidate in Mathematical and Environmental Economics."
-    author: Name
+    description: "I am an Erasmus Mundus Scholar in Public Sector Innovation & e-Governance"
+    author: Rahab Nadir
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -49,23 +49,15 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Rosa van den Ende
-          subtitle: "I am Rosa van den Ende. I am a postdoctoral researcher at RPTU Kaiserslautern-Landau, working with Daniel Heyen on designing early warning systems for tipping points. In 2025, I obtained my PhD in Applied Mathematics from Université Paris 1 Panthéon-Sorbonne and in Economics from Universität Bielefeld, under the supervision of Agnieszka Rusinowska and Manuel Foerster.  <br><br> I am mostly interested in network theory and game theory and how this can inform fair climate policy. "
+          title: Rahab Nadir
+          subtitle: "I am Rahab Nadir. I am Rahab Nadir, an MSc candidate in Public Sector Innovation and e-Governance through the PIONEER Erasmus Mundus Joint Master’s Programme, with academic training across KU Leuven, the University of Münster, and TalTech. My work focuses on the intersection of digital technologies, public institutions, and policy. <br><br> I am interested in how digital infrastructures are designed, governed, and implemented across public-sector systems. "
           imageUrl: "picture2.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Rosa van den Ende
+          imageTitle: Rahab Nadir
           buttons:
-            - name: Research
-              url: papers/
-            # - name: Courses
-            #   url: courses/
-            # - name: Data
-            #   url: data/
-           # - name: Newsletter
-           #   url: https://pmichaillat.substack.com
-            # - name: Tags
-            #   url: tags/
+            - name: LinkedIn
+              url: https://www.linkedin.com/in/rahabnadir/
             - name: Talks
               url: talks/
             - name: Resume
@@ -76,18 +68,15 @@ params:
         # - name: CV
         #   url: cv_rosa.pdf
         - name: Email
-          url: mailto:rosa.van-den-ende@univ-paris1.fr
+          url: mailto:rahabnadir95@gmail.com
         - name: Location
           url: location/
-    
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=jwrYE5sAAAAJ&hl=fr
+
+
         - name: LinkedIn
-          url: https://linkedin.com/in/rosavandenende
-        # - name: GitHub
-        #   url: https://github.com/pmichaillat
+          url: https://www.linkedin.com/in/rahabnadir/
         - name: ORCID
-          url: https://orcid.org/0000-0002-9417-1075
+          url: https://orcid.org/0009-0006-6332-8515
       
 
     assets:
@@ -97,7 +86,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Rosa van den Ende"
+      text: "Rahab Nadir"
       icon: favicon.ico
       iconHeight: 18
 
