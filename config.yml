@@ -51,7 +51,7 @@ params:
           enabled: true
           title: Rahab Nadir
           subtitle: "I am Rahab Nadir. I am Rahab Nadir, an MSc candidate in Public Sector Innovation and e-Governance through the PIONEER Erasmus Mundus Joint Master’s Programme, with academic training across KU Leuven, the University of Münster, and TalTech. My work focuses on the intersection of digital technologies, public institutions, and policy. <br><br> I am interested in how digital infrastructures are designed, governed, and implemented across public-sector systems. "
-          imageUrl: "picture2.jpg"
+          imageUrl: "picture2.jpg.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Rahab Nadir
