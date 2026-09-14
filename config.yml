@@ -18,7 +18,7 @@ menu:
           url: talks/
           weight: 2
         - name: Resume
-          url: cv_rosa_032026.pdf
+          url: Rahab_Nadir_CV - Github.pdf
           weight: 3 
         # - name: Photography
         #   url: https://pmichaillat.substack.com
@@ -61,12 +61,12 @@ params:
             - name: Talks
               url: talks/
             - name: Resume
-              url: cv_rvde_2026.pdf
+              url: Rahab_Nadir_CV - Github.pdf
             #- name: Archive
             #  url: archive/
     socialIcons:
         # - name: CV
-        #   url: cv_rosa.pdf
+        #   url: Rahab_Nadir_CV - Github.pdf
         - name: Email
           url: mailto:rahabnadir95@gmail.com
         - name: Location
