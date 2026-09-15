@@ -12,10 +12,10 @@ taxonomies:
 menu:
     main:
         - name: Research
-          url: papers/
+          url: 
           weight: 1
         - name: Talks
-          url: talks/
+          url: 
           weight: 2
         - name: Resume
           url: Rahab_Nadir_CV - Github 03.pdf
@@ -59,7 +59,7 @@ params:
             - name: LinkedIn
               url: https://www.linkedin.com/in/rahabnadir/
             - name: Talks
-              url: talks/
+              url: 
             - name: Resume
               url: Rahab_Nadir_CV - Github 03.pdf
             #- name: Archive
@@ -70,7 +70,7 @@ params:
         - name: Email
           url: mailto:rahabnadir95@gmail.com
         - name: Location
-          url: location/
+          url: 
 
 
         - name: LinkedIn
